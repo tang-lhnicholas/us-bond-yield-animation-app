@@ -10,12 +10,12 @@ You need Python 3.0 or greater to run the script.
 You also need the following libraries installed:
 
 **numpy** - For array operations on the data<br/>
-**pandas** - For handling data frames
-**matplotlib** - For plotting graphs and data animation.  `Matplotlib.animation.FuncAnimation` for creating animated plots.
-**requests** - Retrieves data from websites through HTML requests
-**beautifulsoup4** - Parses and extracts information from HTML
-**tkcalendar** - Creates calendar widget in Tkinter
-**Tkinter** - Creates the GUI. Usually comes along when you install Python.
+**pandas** - For handling data frames<br/>
+**matplotlib** - For plotting graphs and data animation.  `Matplotlib.animation.FuncAnimation` for creating animated plots.<br/>
+**requests** - Retrieves data from websites through HTML requests<br/>
+**beautifulsoup4** - Parses and extracts information from HTML<br/>
+**tkcalendar** - Creates calendar widget in Tkinter<br/>
+**Tkinter** - Creates the GUI. Usually comes along when you install Python.<br/>
 
 ```
 # Installing dependencies
