@@ -15,7 +15,7 @@ You also need the following libraries installed:
 **requests** - Retrieves data from websites through HTML requests<br/>
 **beautifulsoup4** - Parses and extracts information from HTML<br/>
 **tkcalendar** - Creates calendar widget in Tkinter<br/>
-**Tkinter** - Creates the GUI. Usually comes along when you install Python.<br/>
+**tkinter** - Creates the GUI. Core Python library; usually comes along when you install Python.<br/>
 
 ```
 # Installing dependencies
